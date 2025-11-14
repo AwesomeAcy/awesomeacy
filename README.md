@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Chrissy (awesomeacy) 👋
 
-<!--
-**AwesomeAcy/awesomeacy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at **Green River College**, learning how to build clean and simple web experiences.
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- HTML • CSS • JavaScript  
+- Python fundamentals  
+- Version control (Git & GitHub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
+
+### 🎯 2025 Goals
+- Build 3–5 beginner projects  
+- Improve my JavaScript skills  
+- Start contributing to open-source  
+- Create a personal portfolio website  
+
+---
+
+Thanks for visiting my profile! ✨
